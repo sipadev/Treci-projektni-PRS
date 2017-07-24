@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRS_1119_10_Z3</string>
+    <string name="osvezavanje">Osvežavanje</string>
+    <string name="automatsko_osvezavanje">Automatsko osvežavanje</string>
+    <string name="osvezi">Osvežite</string>
+
+</resources>
